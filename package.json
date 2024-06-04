@@ -67,7 +67,7 @@
   "dependencies": {
     "@adonisjs/ace": "^5.0.8",
     "archiver": "^3.0.0",
-    "axios": "^0.18.1",
+    "axios": "^0.28.0",
     "axios-cookiejar-support": "^0.5.0",
     "cross-env": "^5.2.0",
     "dayjs": "^1.11.4",
@@ -86,7 +86,7 @@
     "react-dom": "^16.7.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "sharp": "^0.30.7",
+    "sharp": "^0.32.6",
     "shelljs": "^0.8.1",
     "sqlite3": "^5.0.10"
   },
@@ -117,7 +117,7 @@
     "@types/sharp": "^0.27.3",
     "@types/shelljs": "^0.7.8",
     "babel-plugin-root-import": "^6.1.0",
-    "electron": "19.0.10",
+    "electron": "22.3.25",
     "electron-builder": "^23.1.0",
     "electron-rebuild": "^3.2.8",
     "eslint": "^8.13.0",
